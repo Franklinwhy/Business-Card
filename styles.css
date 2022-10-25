@@ -1,0 +1,19 @@
+body{
+    margin: 20px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.avatar{
+    width: 150px;
+    margin-right: 20px;
+}
+
+.card{
+    display: flex;
+    padding: 20px;
+    border: 1px black;
+    background: lightblue;
+    border-bottom: 20px black;
+    
+}
